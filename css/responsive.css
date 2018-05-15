@@ -1,0 +1,17 @@
+@media all and (max-width: 992px) {
+    #main-section .container {
+        top: 20px;
+    }
+    #main-section .section-inner {
+        width: 48%;
+    }
+}
+
+@media all and (max-width: 480px) {
+    #main-section .container {
+        top: 20px;
+    }
+    #main-section .section-inner {
+        width: 98%;
+    }
+}
